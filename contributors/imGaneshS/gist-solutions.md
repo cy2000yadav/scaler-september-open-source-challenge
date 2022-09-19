@@ -1,4 +1,4 @@
-## Gist Task
+# Gist Task
 
 - Create a gist writing on any software development related topic that interests you
     https://gist.github.com/imGaneshS/a0ee874fe12ff8abfd949baa19fd751f
