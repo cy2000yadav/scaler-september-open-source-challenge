@@ -1,3 +1,4 @@
+n = input()
 total = 0
 for ele in n:
     total += int(ele)
